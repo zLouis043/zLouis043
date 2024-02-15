@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <h2 align="center">Contact me: </h3>
 <div align="center">
   <a href="https://reddit.com/user/u/INLouiz">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" href="https://reddit.com/user/u/INLouiz"> 
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"> 
   </a>
 </div>
 
