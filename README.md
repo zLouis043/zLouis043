@@ -87,20 +87,27 @@ Here are some ideas to get you started:
 
 ###
 -->
-<!--
+
 ###
 
 <h1 align="center">Hey there 👋</h1>
 
-###
 
+<div align="center">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" >
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+</div>
+
+###
 <h3 align="center">My stats: </h1>
 
 <!--<div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=zLouis043&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zLouis043&theme=gruvbox" height="150" alt="stats graph">
 </div>
-
+-->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zLouis043&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -113,12 +120,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=zLouis043&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=zLouis043&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zLouis043&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="220" alt="languages graph"  />
 </div>
 
 ###
-
 <!--
 <div align="center">
   <img width="12" />
@@ -128,7 +134,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-
+<!--
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/INLouiz) 
 
@@ -144,5 +150,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zLouis043&icon=0&color=2)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
