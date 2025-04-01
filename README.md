@@ -97,10 +97,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
 </div>
 
+<!--
 <h3 align="center">My stats: </h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zLouis043&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+-->
 
 <h3 align="center">The languages that I use: </h1>
 <div align="center">
